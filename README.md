@@ -11,7 +11,8 @@ The project uses a local copy of `bank.csv` (a smaller version of the full datas
 
 ## Folder Structure
 
-```├── data/
+```
+├── data/
 │   └── bank.csv                  # The dataset used for training and testing
 ├── visualizations/
 │   ├── 01_confusion_matrix.png
@@ -19,6 +20,8 @@ The project uses a local copy of `bank.csv` (a smaller version of the full datas
 ├── decision_tree_classifier.py   # Main Python script for the analysis
 ├── README.md                       # This explanation file
 └── .gitignore
+
+```
 
 
 ## How to Run the Code
