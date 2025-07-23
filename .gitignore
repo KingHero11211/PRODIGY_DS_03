@@ -1,0 +1,23 @@
+# --- Python Specific ---
+# Virtual environment folders. These are user-specific and can be very large.
+.venv/
+venv/
+env/
+
+# Python cache files. These are generated automatically by Python.
+__pycache__/
+*.pyc
+
+# --- IDE and Editor Configuration ---
+.vscode/
+.idea/
+
+# --- Operating System Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Generated Output ---
+visualizations/
+
+# --- Log files ---
+*.log
